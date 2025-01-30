@@ -1,4 +1,4 @@
-# 📌 Nama Proyek
+# 📌 Hello everyone
 
 ![GitHub License](https://img.shields.io/github/license/username/repo)
 ![GitHub Stars](https://img.shields.io/github/stars/username/repo)
@@ -46,4 +46,4 @@ Proyek ini menggunakan lisensi [MIT](LICENSE).
 
 ---
 
-🔗 **Kontak:** [LinkedIn](https://linkedin.com/in/username) | [Email](mailto:email@example.com)
+🔗 **Kontak:** [LinkedIn](https://linkedin.com/in/revalin-amalia-0302a4285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) | [Email](mailto:blank@gmail.com)
