@@ -1,5 +1,5 @@
+<img src="https://media1.tenor.com/m/wasYxHvWNrsAAAAC/hello-kitty-banner.gif" alt="Cute Pixel Cat" style="width:100% ; height:auto;"/>
 
-<p align="center"> <!-- Banner GIF --> <img src="https://media1.tenor.com/m/wasYxHvWNrsAAAAC/hello-kitty-banner.gif" alt="Cute Pixel Cat" style="width:100% ; height:auto;"/> </p>
 
 <p align="center"> <!-- Tech Logos --> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
