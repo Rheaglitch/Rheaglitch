@@ -21,14 +21,19 @@ Hi! My name is **Revalin Amalia** from Indonesia.
 I’m an 18-year-old junior fullstack web developer.  
 My skills include web development and creative fields such as UI/UX, poster design, video or photo content creation, and also 3D animation. ✨
 
----
-
 ### 🇨🇳 中文
 嗨！我叫 **Revalin Amalia | 李若琳**，来自印度尼西亚。  
 我是一名 18 岁的初级全栈网页开发者。  
 我的技能包括网页开发，以及创意领域，例如 UI/UX、海报设计、视频或照片内容制作，还有 3D 动画。🌸
 
 ---
+
+## 🍓 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-ffb6c1?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/anaknyamommyziya)
+[![X](https://img.shields.io/badge/X-87cefa?style=for-the-badge&logo=x&logoColor=black)](https://x.com/ZAlvixf)
+[![Discord](https://img.shields.io/badge/Discord-ba55d3?style=for-the-badge&logo=discord&logoColor=black)](https://discord.gg/grE9uUxvZZ)
+
 
 
 
