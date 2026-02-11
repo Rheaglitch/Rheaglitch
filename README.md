@@ -1,4 +1,5 @@
 # 🌷 Ollaa miww 🌷
+<p align="center"> <!-- Banner GIF --> <img src="https://tenor.com/jBTCFIu7ZIO.gif" alt="Cute Pixel Cat" width="300"/> </p>
 
 <p align="center"> <!-- Tech Logos --> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
