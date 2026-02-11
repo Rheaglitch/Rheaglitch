@@ -1,10 +1,5 @@
 # 🌷 Welcome to My Cute Repo 🌷
 
-![Cute Badge](https://img.shields.io/badge/✨-Kawaii-pink)
-![Status](https://img.shields.io/badge/Status-Active-ff69b4)
-
----
-
 <p align="center"> <!-- Tech Logos --> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> 
