@@ -17,14 +17,3 @@ Repo ini berisi eksperimen kecil yang penuh warna 💖
 - 🐰 Easy to customize
 
 ---
-
-## 💌 How to Use
-1. Clone repo ini
-2. Install dependencies
-3. Run project dan nikmati tampilan imutnya 🌷
-
-```bash
-git clone https://github.com/username/repo-name.git
-cd repo-name
-npm install
-npm run dev
