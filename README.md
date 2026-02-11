@@ -33,6 +33,11 @@ My skills include web development and creative fields such as UI/UX, poster desi
 [![Instagram](https://img.shields.io/badge/Instagram-ffb6c1?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/anaknyamommyziya)
 [![X](https://img.shields.io/badge/X-87cefa?style=for-the-badge&logo=x&logoColor=black)](https://x.com/ZAlvixf)
 [![Discord](https://img.shields.io/badge/Discord-ba55d3?style=for-the-badge&logo=discord&logoColor=black)](https://discord.gg/grE9uUxvZZ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5dade2?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000)](https://linkedin.com/in/revalin_amalia)
+
+
+
+
 
 
 
