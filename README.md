@@ -1,5 +1,3 @@
-# 🌷 Ollaa miww 🌷
-
 
 <p align="center"> <!-- Banner GIF --> <img src="https://media1.tenor.com/m/wasYxHvWNrsAAAAC/hello-kitty-banner.gif" alt="Cute Pixel Cat" style="width:100% ; height:auto;"/> </p>
 
